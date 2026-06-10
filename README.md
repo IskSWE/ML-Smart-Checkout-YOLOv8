@@ -1,0 +1,2 @@
+# ML-Smart-Checkout-YOLOv8
+ML FINAL PROJECT
