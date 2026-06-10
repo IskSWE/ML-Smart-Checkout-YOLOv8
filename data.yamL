@@ -1,0 +1,13 @@
+path: ./datasets
+train: train/images
+val: val/images
+
+# 映射微調的類別名稱（完全與 MS COCO 資料集常用零售物件索引對齊）
+names:
+  0: person
+  39: bottle
+  41: cup
+  63: laptop
+  64: mouse
+  66: keyboard
+  67: cell phone
